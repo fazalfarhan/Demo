@@ -22,3 +22,5 @@ trying stashing
 update in stage
 
 more updates in working directory
+
+poll scm
